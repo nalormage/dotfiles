@@ -72,7 +72,7 @@ zstyle :omz:plugins:ssh-agent agent-forwarding on
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git ripgrep rust rustup cargo ssh-agent tmux python)
+plugins=(git ripgrep rust rustup cargo ssh-agent tmux python emacs)
 
 source $ZSH/oh-my-zsh.sh
 
